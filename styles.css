@@ -31,7 +31,7 @@ body {
 }
 
 .banner-wrap {
-    background-image: url(./assets/netflix-back-cover.jpg);
+    background-image: url(./assets/netflix-cover.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
